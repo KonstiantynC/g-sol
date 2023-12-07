@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "label": "Great <br>Solution",
+    "services": "services",
+    "projects": "projects",
+    "about us": "about us",
+    "contacts": "contacts"
+  },
+  "get-started": {
+    "title": "Great <span>Solution</span><br>for your <br>business"
+  },
+  "tech-preview": {
+    "title": "What we do",
+    "description": "Our main goal is to understand the \"pain\" of the client, to be\n inspired by the idea and do everything as if for ourselves",
+    "hint": "Services\n technologies",
+    "technologies": {
+      "strategy": {
+        "title": "Strategy\nDefinition",
+        "description": "The success of any project directly depends on the right strategy. Our experts will provide the most correct solution in this matter",
+        "technologies": "SMM, CEO, Research"
+      },
+      "product": {
+        "title": "Product\nDesign",
+        "description": "Every possible effort will be made to your idea and optimal solutions will be used to make it recognizable",
+        "technologies": "Product Design, UX/UI Design"
+      },
+      "web": {
+        "title": "Web\nDevelopment",
+        "description": "Our team uses only modern methods, tools and approaches. Products of any complexity for your business that work",
+        "technologies": "Node.js, Vue.js, Flutter, \nRuby On Rails, Frontend, Backend"
+      },
+      "mobile": {
+        "title": "Mobile\nDevelopment",
+        "description": "We develop mobile applications using the best modern technologies. Saving you time and money",
+        "technologies": "Flutter"
+      },
+      "video": {
+        "title": "Video\nEditing",
+        "description": "Any product needs a quality presentation. Our experts create high-quality video content. With the use of shape animation, graphics and other tools",
+        "technologies": "Editing, Color correction, Sound design, Shape animation, Simple graphics"
+      },
+      "3d": {
+        "title": "3D\nDesign",
+        "description": "3D likeness Sculpting; Hard Surface Modeling; Texturing; Rigging; Skinning; Animation",
+        "technologies": "ZBrush, Maya, Blender, Topogun,\nSubstance Painter, 3ds Max"
+      }
+    },
+    "qualities": {
+      "flex": "Flexibility",
+      "quality": "Quality",
+      "innovation": "Innovation"
+    }
+  },
+  "book-reader": {
+    "title": "Case studies",
+    "mobile-dev": "Mobile development",
+    "app-name": "Book reader",
+    "details": "<p>Convenient and practical mobile application for reading books</p> <p>Has musical accompaniment</p> <p>Admin panel + Mobile application</p>",
+    "tech-lbl": "Technology:",
+    "mobile-lbl": "Mobile:",
+    "front-lbl": "Front-end:",
+    "back-lbl": "Back-end:"
+  },
+  "amhora": {
+    "web-dev": "Web development",
+    "app-name": "Amhora.com",
+    "details": "<p>Amhora is a Blockchain explorer.</p> <p>The site was created so that users can view infographics on cryptocurrencies (blocks, transactions, prices and historical data).</p> <p>Major cryptocurrencies: BTC, ETH, BCH, DASH, XRM, LTC.</p>",
+    "tech-lbl": "Technology:",
+    "front-lbl": "Front-end:",
+    "back-lbl": "Back-end:"
+  },
+  "jelly": {
+    "web-dev": "Web development",
+    "app-name": "Jellywallet",
+    "details": "<p>It's a chrome extention wallet for defichain network.</p><p>You can use the extension format or full screen.</p><p>Now project is on active development stage. Currently undergoing open testing on real users.</p><p>The extension format / full screen</p>",
+    "tech-lbl": "Technology:"
+  },
+  "bitalo": {
+    "web-dev": "Mobile development",
+    "app-name": "Bitalo",
+    "details": "<p>It's a crypto wallet (exchange).</p> <p>The peculiarity of the project is that administration does not have access to users' coins.</p><p>The essence of the work is based on the escrow base. The exchange is the guarantor for exchanges.</p><p>Clients can use web site or mobile application. Bitalo is audited by BaFin.</p>",
+    "tech-lbl": "Technology:",
+    "mobile-lbl": "Mobile:",
+    "front-lbl": "Front-end:",
+    "back-lbl": "Back-end:"
+  },
+  "about-us": {
+    "title": "Great solution",
+    "subtitle": "we are a team with a",
+    "about-team": {
+      "name": "The name of our company speaks for itself - we are looking for the optimal solution to all problems and issues.",
+      "ideas": "Our team of experts turn ideas into reality. From the process of creating logo prototypes to promoting the finished product on social networks.",
+      "products": "We worked with small and medium businesses that needed products for various areas - fintech, cryptocurrencies, video games, promotional videos, and more."
+    },
+    "comment": "‟Our main strength is a flexibility. We quickly adapt to customer need.”",
+    "founder": "Ihor Savva",
+    "founder-lbl": "Company Founder",
+    "text-decoration": "Our main objective"
+  },
+  "contuct-us:": {
+    "title": "Contact Us",
+    "contact-details": "Tell us briefly about your project and we will contact you within 24 hours",
+    "adress": "Ukraine, Lviv Sriblyasta street, 35"
+  }
+}

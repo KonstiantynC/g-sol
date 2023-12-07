@@ -1,0 +1,29 @@
+<svg width="124" height="124" viewBox="0 0 124 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="path-1-inside-1_412_336" fill="white">
+        <rect x="5" y="16" width="114.355" height="92" rx="2.57944"/>
+    </mask>
+    <rect x="5" y="16" width="114.355" height="92" rx="2.57944" stroke="#F5B241" stroke-width="8.59813"
+          mask="url(#path-1-inside-1_412_336)"/>
+    <path d="M25.6355 19.0094V106.71" stroke="#F5B241" stroke-width="4.29907"/>
+    <path d="M98.7196 19.0094V106.71" stroke="#F5B241" stroke-width="4.29907"/>
+    <path d="M46.271 79.0093V62.4299V45.8504C46.271 45.1914 46.9821 44.7773 47.5552 45.1027L76.7666 61.6821C77.3472 62.0116 77.3472 62.8481 76.7666 63.1776L47.5552 79.757C46.9821 80.0824 46.271 79.6684 46.271 79.0093Z"
+          stroke="white" stroke-width="4.29907"/>
+    <rect x="11.0188" y="26.3177" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="26.3177" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="34.9159" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="34.9159" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="43.514" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="43.514" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="52.1123" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="52.1123" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="60.7102" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="60.7102" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="69.3085" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="69.3085" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="77.9065" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="77.9065" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="86.5046" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="86.5046" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="11.0188" y="95.1029" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+    <rect x="103.019" y="95.1029" width="10.3178" height="3.43925" rx="1.71963" fill="white"/>
+</svg>

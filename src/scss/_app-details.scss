@@ -1,0 +1,74 @@
+@import './variables';
+
+.app-details__tech-marker {
+  font-family: 'SF Pro Display', sans-serif;
+  text-transform: lowercase;
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: $book-reader-text-color;
+  opacity: 0.6;
+  background: $book-reader-marker-bg-color;
+  padding: 0.8rem 1.4rem;
+}
+
+.app-details__app-name {
+  margin-top: 4rem;
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 400;
+  font-size: 5rem;
+  color: $book-reader-text-color;
+}
+
+.app-details__app-details {
+  margin-top: 3.8rem;
+  margin-bottom: 10rem;
+  font-family: 'SF Pro Display Regular', sans-serif;
+  font-weight: 200;
+  font-size: 2rem;
+  color: $book-reader-text-color;
+}
+
+.app-details__technologies-label {
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
+  color: $book-reader-text-color;
+}
+
+.app-details__technologies-list {
+  margin-top: 6.4rem;
+}
+
+.app-details__technology,
+.app-details__technology-details {
+  display: flex;
+  align-items: center;
+}
+
+.app-details__technology {
+  padding: 1.6rem 0;
+}
+
+.app-details__technology-label {
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
+  color: $book-reader-text-color;
+  width: 12rem;
+}
+
+.app-details__technology-name {
+  padding-left: 0.8rem;
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 400;
+  font-size: 1.8rem;
+  color: $book-reader-text-color;
+}
+
+.app-details__technology-icon {
+  filter: brightness(0) invert(1);
+}
+
+.app-details__app-details p {
+  padding-bottom: 1.6rem;
+}

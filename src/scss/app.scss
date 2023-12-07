@@ -1,0 +1,65 @@
+@import "font-family";
+@import "_app-details";
+@import "_slider";
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body,
+input,
+select,
+button,
+textarea {
+  letter-spacing: 0.005rem;
+}
+
+textarea,
+button,
+select,
+input,
+body,
+span,
+p {
+  font-size: 1.4rem;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.app__container {
+  flex: 1;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+.section-container {
+  padding: 0 13.5rem;
+}
+
+.app__page {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.app__wrapper {
+  width: 100%;
+  max-width: 144rem;
+}
+
+.app__page-title {
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  font-weight: 400;
+  font-size: 8rem;
+}

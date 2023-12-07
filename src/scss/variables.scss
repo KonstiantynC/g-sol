@@ -1,0 +1,69 @@
+// colors
+$col-white: #FFFFFF;
+$col-wild-sand: #F5F5F5;
+$col-gray: #8F8F8F;
+$col-black: #000000;
+$col-casablanca: #F5B242;
+$col-deep-koamaru: #12347F;
+$col-prussian-blue: #001D5B;
+$col-guardsman-red: #C00000;
+$col-moccaccino: #742516;
+
+// primary-button
+$primary-button-label-color:  $col-white;
+$primary-button-border-color:  $col-white;
+
+// nav-bar
+$nav-bar-bg-color: $col-black;
+$nav-bar-label-color: $col-white;
+$nav-bar-link-color: $col-white;
+$nav-bar-active-link-border-color: $col-white;
+
+// get-started
+$get-started-title-primary-color: $col-white;
+$get-started-bgh-color: $col-white;
+$get-started-title-accent-color: $col-casablanca;
+$get-started-bg-color: $col-black;
+
+// tech-preview
+$tech-preview-bg-color: $col-black;
+$tech-preview-blur-bg-color: rgba($col-deep-koamaru, 0.4);
+$tech-preview-hint-color: $col-white;
+$tech-preview-quantity-color: $col-white;
+$tech-preview-quantity-border-color: $col-white;
+
+// tech-details
+$tech-details-border-color: $col-white;
+$tech-details-scale-border-color: $col-casablanca;
+$tech-details-gradient-color: rgba(143,143,143,0.15);
+$tech-details-title-color: $col-white;
+$tech-details-description-color: $col-white;
+$tech-details-technologies-color: $col-white;
+
+// book-reader
+$book-reader-bg-color: $col-black;
+$book-reader-blur-bg-color: rgba($col-casablanca, 0.3);
+$book-reader-text-color: $col-white;
+$book-reader-marker-bg-color: rgba($col-guardsman-red, 0.2);
+
+// amhora
+$amhora-bg-color: $col-moccaccino;
+$amhora-blur-bg-color: rgba($col-casablanca, 0.35);
+$amhora-marker-bg-color: rgba(245, 178, 65, 0.2);
+
+// jelly-wallet
+$jelly-bg-color: #B8B8B8;
+$jelly-left-blur-bg-color: rgba($col-white, 0.96);
+$jelly-right-blur-bg-color: rgba($col-white, 0.65);
+$jelly-marker-bg-color: rgba(0, 0, 0, 0.3);
+
+// bitalo
+$bitalo-bg-color: $col-prussian-blue;
+$bitalo-left-blur-bg-color: rgba(216, 160, 205, 0.25);
+$bitalo-right-blur-bg-color: rgba(216, 160, 205, 0.4);
+
+// about us
+$about-us-bg-color: $col-black;
+$about-us-left-blur-bg-color: rgba(0, 0, 0, 0.6);
+$about-us-right-blur-bg-color: rgba(5, 2, 0, 0.35);
+$about-us-text-color: $col-white;
